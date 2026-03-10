@@ -31,11 +31,15 @@ My long-term goal is to bridge the gap between technical teams and the people th
 
 **Security & Offensive Tools**
 
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
 
 ## 🔭 Currently Working On
-📚 CompTIA Security+ Certification — Strengthening foundational security knowledge and preparing for industry credentialing
-⚔️ Custom Havoc C2 Framework — Building and customizing a command-and-control framework to deepen understanding of offensive security and red team operations
-🐳 Ubuntu Server Home Lab — Running a dedicated Ubuntu server using Docker to containerize and self-host multiple applications, practicing real-world Linux administration and service deployment
+
+📚 **CompTIA Security+ Certification** — Strengthening foundational security knowledge and preparing for industry credentialing
+
+⚔️ **Custom Havoc C2 Framework** — Building and customizing a command-and-control framework to deepen understanding of offensive security and red team operations
+
+🐳 **Ubuntu Server Home Lab** — Running a dedicated Ubuntu server using Docker to containerize and self-host multiple applications, practicing real-world Linux administration and service deployment
